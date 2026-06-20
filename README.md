@@ -248,7 +248,38 @@ MIT — free to use, fork, and modify.
 
 ---
 
+## 🤝 Contact
+
+Need help with **airdrop rescue**, **wallet recovery**, or want a **custom Web3 tool** built?
+
+Feel free to reach out:
+
+<p>
+  <a href="https://x.com/OxJackDev">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/BinanceX360">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+---
+
+## ☕ Support / Donation
+
+If this tool helped you rescue funds, consider sending a tip!
+
+**EVM Wallet (ETH / Base / any EVM chain):**
+```
+0xf69883d8804753fF730631C52AEf669016fB45b0
+```
+
+---
+
 <p align="center">
   👻 <strong>ghost-delegate</strong><br/>
-  Built for Base chain · EIP-7702 · Viem v2 · Node.js 18+
+  Built for Base chain · EIP-7702 · Viem v2 · Node.js 18+<br/><br/>
+  <a href="https://x.com/OxJackDev">𝕏 @OxJackDev</a> · 
+  <a href="https://t.me/BinanceX360">✈️ @BinanceX360</a>
 </p>
