@@ -1,0 +1,27 @@
+{
+  "name": "ghost-delegate",
+  "version": "1.0.0",
+  "description": "EIP-7702 nonce domination bot — ghost your compromised wallet before hackers can blink",
+  "type": "module",
+  "main": "scripts/sweep.js",
+  "scripts": {
+    "start": "node scripts/sweep.js",
+    "dry": "DRY_RUN=true node scripts/sweep.js"
+  },
+  "dependencies": {
+    "viem": "^2.21.0",
+    "dotenv": "^16.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "eip-7702",
+    "base-chain",
+    "wallet-rescue",
+    "nonce-domination",
+    "ethereum",
+    "viem"
+  ],
+  "license": "MIT"
+}
