@@ -255,7 +255,7 @@ Need help with **airdrop rescue**, **wallet recovery**, or want a **custom Web3 
 Feel free to reach out:
 
 <p>
-  <a href="https://x.com/OxJackDev">
+  <a href="https://x.com/0xJackDev">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
   </a>
   &nbsp;
@@ -280,6 +280,6 @@ If this tool helped you rescue funds, consider sending a tip!
 <p align="center">
   👻 <strong>ghost-delegate</strong><br/>
   Built for Base chain · EIP-7702 · Viem v2 · Node.js 18+<br/><br/>
-  <a href="https://x.com/OxJackDev">𝕏 @OxJackDev</a> · 
+  <a href="https://x.com/0xJackDev">𝕏 @OxJackDev</a> · 
   <a href="https://t.me/BinanceX360">✈️ @BinanceX360</a>
 </p>
